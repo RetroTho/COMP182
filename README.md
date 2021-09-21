@@ -1,2 +1,2 @@
 # COMP182
-All projects done in COMP182
+All projects done in Computer Science 182
